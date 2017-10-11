@@ -4,15 +4,14 @@
     <property name="created">2016-11-17T13:00:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.2.0.0</property>
-    <property name="modified">2017-07-08T18:36:10</property>
+    <property name="modified">2017-10-11T15:44:51</property>
     <property name="originalScheme">tritanomaly-tritanopia-light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="80be8f" />
     <option name="BORDER_LINES_COLOR" value="666666" />
@@ -464,6 +463,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
